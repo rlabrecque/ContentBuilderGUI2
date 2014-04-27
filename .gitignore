@@ -1,0 +1,17 @@
+# Visual Studio
+[Rr]elease/
+[Dd]ebug/
+ipch/
+*.aps
+*.csproj
+*.user
+*.suo
+*.*sdf
+
+# Linux
+*.so
+obj/
+
+# OSX
+.DS_Store
+xcuserdata/
